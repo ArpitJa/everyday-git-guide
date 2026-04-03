@@ -6,7 +6,7 @@ Don't forget to ⭐ this repo
 
 ---
 
-## Table of Contents - Arpit
+## Table of Contents - Arpit Jain
 
 - [Starting with a Project](#starting-with-a-project)
 - [Working with Code](#working-with-code)
